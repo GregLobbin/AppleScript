@@ -1,6 +1,9 @@
 AppleScript
 ===========
 
+
+# Script 1: Pull note created date from title
+
 This repository contains AppleScripts that enable bulk updating of Evernote note properties.
 
 The first script can be configured to pull date information from the note title and will use it to change the "Created Date" of the note.  The script looks for a default date format YYYY?MM?DD where '?' can be any character (e.g. '-', '.', '/', etc).  The script is configurable to work with a 2 digit year format as well.
