@@ -2,7 +2,7 @@ AppleScript
 ===========
 
 
-# Script 1: Pull note created date from title
+## Script 1: Pull note created date from title
 
 This repository contains AppleScripts that enable bulk updating of Evernote note properties.
 
